@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://ifont.github.io/atom.xml" rel="self"/>
   <link href="http://ifont.github.io/"/>
-  <updated>2013-10-12T09:34:03+08:00</updated>
+  <updated>2013-10-12T09:59:11+08:00</updated>
   <id>http://ifont.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[爱生活]]></title>
+    <link href="http://ifont.github.io/blog/2013/10/12/ai-sheng-huo/"/>
+    <updated>2013-10-12T09:58:00+08:00</updated>
+    <id>http://ifont.github.io/blog/2013/10/12/ai-sheng-huo</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
